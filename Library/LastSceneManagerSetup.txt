@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Mesh/Rounded Cube/Cube.unity
+  isLoaded: 1
+  isActive: 1
